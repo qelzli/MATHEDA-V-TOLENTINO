@@ -1,4 +1,4 @@
-Product,Type,Date,Process_Size,TDP,Die_Size,Transistors,Freq (MHz),Foundry,Vendor,FP16,FP32,FP64
+Product,Type,Date,Process_Size,TDP,Die_Size,Transistors,Frequency,Foundry,Vendor,FP16,FP32,FP64
 AMD Athlon 64 3500+,CPU,2/20/2007,65.0,45.0,77.0,122.0,2200,Unknown,AMD,,,
 AMD Athlon 200GE,CPU,9/6/2018,14.0,35.0,192.0,4800.0,3200,Unknown,AMD,,,
 Intel Core i5-1145G7,CPU,9/2/2020,10.0,28.0,188.4404445518241,1929.9222785421193,2600,Intel,Intel,,,
